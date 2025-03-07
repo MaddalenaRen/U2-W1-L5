@@ -121,9 +121,12 @@ button:hover {
 
 #article-1 {
     margin-bottom: 10px;
-    margin
+
 }
 
+#main-container {
+    display: flex;
+}
 
 
 .card-section {
